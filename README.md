@@ -10,10 +10,20 @@ O TravelTun é uma plataforma web que simplifica a organização de viagens, uni
 🎯 Principais funcionalidades
 
 · 🔐 Acesso seguro – Crie uma conta ou explore em modo de simulação.
+
+
 · 📍 Cadastro de destinos – Registre todos os lugares que deseja visitar.
+
+
 · 📅 Planejamento por data – Defina datas e organize atividades para cada dia.
+
+
 · 💰 Gestão de orçamento – Estime o custo total e atribua valores a cada atividade.
+
+
 · ✂️ Simulação de cortes – Receba alertas se ultrapassar o orçamento e simule remoções de atividades para economizar.
+
+
 · ⭐ Avaliação pós-viagem – Opine sobre a experiência e contribua com melhorias.
 
 ---

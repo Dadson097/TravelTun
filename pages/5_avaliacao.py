@@ -61,7 +61,6 @@ if st.button("📩 Enviar avaliação", type="primary"):
             "comentario": comentario if comentario.strip() else "Sem comentário"
         })
         st.success(f"🎉 Obrigado {nome}, você deu nota {nota} ⭐")
-        # ❌ REMOVIDO: st.balloons()  # Linha removida
 
 if st.session_state["avaliacoes"]:
     st.markdown("---")
@@ -107,4 +106,5 @@ st.markdown("---")
 if st.button("🗑️ Limpar todas as avaliações"):
     st.session_state["avaliacoes"] = []
     st.success("Avaliações limpas com sucesso!")
+
     st.rerun()
